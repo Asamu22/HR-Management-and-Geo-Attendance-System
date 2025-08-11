@@ -74,3 +74,4 @@
 
 node_moodules/
 .flutter-plugins-dependencies
+.env
